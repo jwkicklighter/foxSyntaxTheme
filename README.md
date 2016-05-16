@@ -6,6 +6,6 @@ It is based on the syntax theme by [Or3stis](https://github.com/Or3stis/firefoxD
 
 I take no credit on the development of the theme, I simply combined others' works into an atom package.
 
-[Less Syntax](https://raw.githubusercontent.com/jwkicklighter/foxSyntaxTheme/master/pics/less.png)
+![Less Syntax](https://raw.githubusercontent.com/jwkicklighter/foxSyntaxTheme/master/pics/less.png)
 
-[Coffeescript Syntax](https://raw.githubusercontent.com/jwkicklighter/foxSyntaxTheme/master/pics/coffee.png)
+![Coffeescript Syntax](https://raw.githubusercontent.com/jwkicklighter/foxSyntaxTheme/master/pics/coffee.png)
