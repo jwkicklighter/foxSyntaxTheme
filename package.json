@@ -10,7 +10,7 @@
     "developer",
     "dark"
   ],
-  "repository": "https://github.com/jwkicklighter/firefoxDevDarkSyntaxTheme",
+  "repository": "https://github.com/jwkicklighter/foxSyntaxTheme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
